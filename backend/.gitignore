@@ -1,0 +1,37 @@
+# Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Package distribution
+*.zip
+*.tar.gz
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Other caches
+.gradle/
